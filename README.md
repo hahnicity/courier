@@ -1,4 +1,4 @@
-courier
+Courier
 =======
 
 A brief SMTP CLI. 
